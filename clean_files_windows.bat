@@ -22,4 +22,4 @@ del *.dep /s
 
 del *.pre /s
 del *.p1 /s
-del *.p3 /s
+del *.p6 /s
